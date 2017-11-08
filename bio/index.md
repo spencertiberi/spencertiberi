@@ -4,7 +4,7 @@ layout: default
 
 <h2 class="ressec"> Brief Biography </h2>
 
-Spencer Lee Tiberi was born on March 29<sup>th</sup>, 1991 in <del>Sparks, Nevada</del> Las Vegas, Nevada. He grew up in the southwestern Las Vegas suburb of Enterprise, frequently alternating between exploring his desert habitat and venturing into virtual worlds on his Nintendo 64. As a fun juxtaposition to Las Vegas summers, he started snowboarding at the age of 8.
+Spencer Lee Tiberi was born on March 29<sup>th</sup>, 1991 in <del>Sparks</del> Las Vegas, Nevada. He grew up in the southwestern Las Vegas suburb of Enterprise, frequently alternating between exploring his desert habitat and venturing into virtual worlds on his Nintendo 64. As a fun juxtaposition to Las Vegas summers, he started snowboarding at the age of 8.
 
 After high school dabbling in creating music and playing bass guitar, he graduated from the University of Nevada, Las Vegas in 2013 with a B.S. in Secondary Education - Mathematics and a minor in Psychology (Why though? - A advanced degree in Psychology may be required to figure this one out). He quickly jumped into teaching Mathematics at Mojave High School in North Las Vegas and later at Durango High School closer to home in Enterprise.
 
