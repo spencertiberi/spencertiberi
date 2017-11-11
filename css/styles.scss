@@ -51,8 +51,15 @@ cp node_modules/primer-css/build.css _sass/
     position: relative;
   }
 
+  .mobile-nav {
+    text-align: center;
+  }
+
   .col-sm-6 {
     text-align: center;
+  }
+  .scroll {
+    text-align: left;
   }
 }
 
@@ -69,6 +76,11 @@ cp node_modules/primer-css/build.css _sass/
     }
   }
 
+  .mobile-nav {
+    display: none;
+    visibility: collapse;
+  }
+
   .scroll {
     width:100%;
     max-height:25em;
@@ -76,6 +88,7 @@ cp node_modules/primer-css/build.css _sass/
   }
 
 }
+
 
 .blogpost {
   color: var(--blog-link)
