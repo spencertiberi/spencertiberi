@@ -24,6 +24,7 @@
 
     <body>
         <div class="container-fluid">
+            <img class="logo" src="../assets/st.png">
             <div class="col-sm-6">
                 <ul class="std-nav rightjust">
                     <li><a href="{{ site.baseurl }}/bio"> bio </a></li>
@@ -36,7 +37,9 @@
             <div class="col-sm-6">
                 <div class="container-fluid markdown-body">
                     <div class="name"><a href="{{ "/" | relative_url }}"> {{ site.title }} </a></div>
+                    <div class="scroll">
                     {{ content }}
+                  </div>
                 </div>
             </div>
         </div>

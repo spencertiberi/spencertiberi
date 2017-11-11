@@ -59,15 +59,22 @@ cp node_modules/primer-css/build.css _sass/
 @media (min-width: 768px) {
 
   .col-sm-6 {
-    margin-top: 150px;
+    //margin-top: 150px;
 
     .std-nav {
-    position: fixed;
-    padding-right: 1em;
-    left: 50%;
-    transform: translateX(-100%);
+      position: fixed;
+      padding-right: 1em;
+      left: 50%;
+      transform: translateX(-100%);
     }
   }
+
+  .scroll {
+    width:100%;
+    max-height:25em;
+    overflow-y:scroll;
+  }
+
 }
 
 .blogpost {
@@ -89,6 +96,12 @@ cp node_modules/primer-css/build.css _sass/
   width: 50%;
   height: 100%;
   background-color: var(--leftbg-color);
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  width: 150px;
 }
 
 .name {
