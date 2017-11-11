@@ -10,7 +10,7 @@ layout: default
 
 {% for post in site.posts %}
     {% assign counter = counter | plus: 1 %}
-      <a href="{{ post.url }}" class="blogpost"> {{ post.title }} <a>
+      <a href="{{ post.url }}" class="blogpost"> {{ post.title }} ({{ post.date | date: "%b %d, %Y"}}) <a>
     {% if counter < max %}
       |
     {% endif %}
