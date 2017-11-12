@@ -89,7 +89,6 @@ cp node_modules/primer-css/build.css _sass/
 
 }
 
-
 .blogpost {
   color: var(--blog-link)
 }
@@ -145,7 +144,7 @@ a {
   color: var(--link-color);
 }
 
-a:hover {
+a:hover, .active {
   color: var(--link-highlight);
   text-decoration: none;
 }

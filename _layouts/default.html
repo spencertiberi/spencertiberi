@@ -27,19 +27,19 @@
             <a href="{{ "/" | relative_url }}"><img class="logo" src="{{ site.baseurl }}/assets/st.png"></a>
             <div class="col-sm-6">
                 <ul class="std-nav rightjust">
-                    <li><a href="{{ site.baseurl }}/bio"> bio </a></li>
-                    <li><a href="{{ site.baseurl }}/projects"> projects </a></li>
-                    <li><a href="{{ site.baseurl }}/resume"> resume </a></li>
-                    <li><a href="{{ site.baseurl }}/blog"> blog </a></li>
-                    <li><a href="{{ site.baseurl }}/contact"> contact </a></li>
+                    <li><a href="{{ site.baseurl }}/bio" {% if page.url == "/bio/" %} class="active" {% endif %}> bio </a></li>
+                    <li><a href="{{ site.baseurl }}/projects" {% if page.url == "/projects/" %} class="active" {% endif %}> projects </a></li>
+                    <li><a href="{{ site.baseurl }}/resume" {% if page.url == "/resume/" %} class="active" {% endif %}> resume </a></li>
+                    <li><a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" %} class="active" {% endif %}> blog </a></li>
+                    <li><a href="{{ site.baseurl }}/contact" {% if page.url == "/contact/" %} class="active" {% endif %}> contact </a></li>
                 </ul>
             </div>
             <div class="mobile-nav">
-                <a href="{{ site.baseurl }}/bio"> bio </a> |
-                <a href="{{ site.baseurl }}/projects"> projects </a> |
-                <a href="{{ site.baseurl }}/resume"> resume </a> |
-                <a href="{{ site.baseurl }}/blog"> blog </a> |
-                <a href="{{ site.baseurl }}/contact"> contact </a>
+                <a href="{{ site.baseurl }}/bio" {% if page.url == "/bio/" %} class="active" {% endif %}> bio </a> |
+                <a href="{{ site.baseurl }}/projects" {% if page.url == "/projects/" %} class="active" {% endif %}> projects </a> |
+                <a href="{{ site.baseurl }}/resume" {% if page.url == "/resume/" %} class="active" {% endif %}> resume </a> |
+                <a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" %} class="active" {% endif %}> blog </a> |
+                <a href="{{ site.baseurl }}/contact" {% if page.url == "/contact/" %} class="active" {% endif %}> contact </a>
             </div>
             <div class="col-sm-6">
                 <div class="container-fluid markdown-body">
