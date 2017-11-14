@@ -11,18 +11,20 @@ _"Be weary of the man who claims to have 30 years of experience, when he really 
 ### What I learned from...
 
 #### Lesson Planning
-- Thinking about simplifying abstract concepts
+- Simplifying abstract concepts
 - Designing presentation materials and documents
-- Organized project management
+- Managing projects and deadlines
+- Fostering creativity
 
 #### Parent-Teacher Meetings
 - Professional client debriefing techniques
 - Confidentiality
 
-#### Teaching Class
+#### Teaching Classes
 - Commanding a room
 - Wooing clients
 - Public speaking
+- On-the-fly decision making
 
 #### Setting Up a Classroom
 - Designing a welcoming, productive physical atmosphere
