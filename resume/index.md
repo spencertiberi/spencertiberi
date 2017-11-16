@@ -42,4 +42,5 @@ layout: default
 
 **Programming:** C, PHP, JavaScript, Python 3, SQL <br>
 **Website and Document Creation:** HTML/CSS, Markdown, InDesign, Microsoft Office Suite <br>
-**Music:** Composition, Bass Guitar
+**Music:** Composition, Bass Guitar <br>
+**Soft:** Public Speaking, Client Rapport Development, Project Management, Design-Driven Mindset
