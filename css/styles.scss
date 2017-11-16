@@ -51,13 +51,10 @@ cp node_modules/primer-css/build.css _sass/
     position: relative;
   }
 
-  .mobile-nav {
+  .mobile-nav, .col-sm-6 {
     text-align: center;
   }
 
-  .col-sm-6 {
-    text-align: center;
-  }
   .scroll {
     text-align: left;
   }
@@ -66,8 +63,6 @@ cp node_modules/primer-css/build.css _sass/
 @media (min-width: 768px) {
 
   .col-sm-6 {
-    //margin-top: 150px;
-
     .std-nav {
       position: absolute;
       padding-right: 1em;
