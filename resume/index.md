@@ -26,12 +26,12 @@ layout: default
 <h3 class="resloc"> Clark County School District </h3>
 ### Durango High School (Title 1)
 
-**June 2014 – August 2017** Mathematics and Computer Science Teacher<br>      
+**June 2014 – August 2017** Mathematics and Computer Science Teacher<br>
 **August 2014 – June 2017** Varsity Basketball Analytics Coach    
 
 ### Mojave High School (Title 1)
 
-**May 2013 – June 2014** Mathematics Teacher<br>          
+**May 2013 – June 2014** Mathematics Teacher<br>
 **September 2012 – May 2013** Student Teacher   
 
 <h3 class="resloc"> University of Nevada, Las Vegas </h3>
@@ -40,5 +40,6 @@ layout: default
 
 <h2 class="ressec"> Skills </h2>
 
-**Computer:** C, PHP, JavaScript, Python 3, SQL, HTML/CSS, Markdown, Microsoft Office Suite <br>
+**Programming:** C, PHP, JavaScript, Python 3, SQL <br>
+**Website and Document Creation:** HTML/CSS, Markdown, InDesign, Microsoft Office Suite <br>
 **Music:** Composition, Bass Guitar
