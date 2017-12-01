@@ -13,6 +13,13 @@ Application that allows two phones to have start and stop functionality when tim
 - Firebase
 - React Native
 
+<h3 class = "resloc"> Basketball Play Efficiency </h3>
+
+A spreadsheet for determining efficiency of plays based on in-game outcome.
+
+#### Made With...
+- Excel
+
 <h3 class = "resloc"> Untitled Personal EP </h3>
 
 A collection of alternative rock home recordings.
@@ -24,6 +31,13 @@ A collection of alternative rock home recordings.
 - Mixcraft DAW
 
 <h2 class="ressec"> Past Projects </h2>
+
+<h3 class = "resloc"> Basketball Box Score Sheet </h3>
+
+A statsheet meant for in-game recoding of stats and real-time calculation of metrics such as usage rate and efficiency.
+
+#### Made With...
+- Excel
 
 <h3 class = "resloc"> Algebrah </h3>
 
