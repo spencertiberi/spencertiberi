@@ -32,6 +32,16 @@ A collection of alternative rock home recordings.
 
 <h2 class="ressec"> Past Projects </h2>
 
+<h3 class = "resloc"> CS50 AP Playbook </h3>
+
+Playbook to help CS50 AP teachers get their class off the ground and running. Located at [https://spencertiberi.github.io/playbook50](https://spencertiberi.github.io/playbook50).
+
+#### Made With...
+- Markdown
+- HTML/CSS
+- Python
+- Liquid
+
 <h3 class = "resloc"> Basketball Box Score Sheet </h3>
 
 A statsheet meant for in-game recoding of stats and real-time calculation of metrics such as usage rate and efficiency.
