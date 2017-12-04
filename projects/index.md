@@ -34,7 +34,7 @@ A collection of alternative rock home recordings.
 
 <h3 class = "resloc"> CS50 AP Playbook </h3>
 
-Playbook to help CS50 AP teachers get their class off the ground and running. Located at [https://spencertiberi.github.io/playbook50](https://spencertiberi.github.io/playbook50).
+Playbook to help CS50 AP teachers get their class off the ground and running. Located at <a href="https://spencertiberi.github.io/playbook50" target="blank">https://spencertiberi.github.io/playbook50</a>.
 
 #### Made With...
 - Markdown
