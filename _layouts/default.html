@@ -20,11 +20,18 @@
         <script>
             var date = new Date();
             var hours = date.getHours();
-            if (hours > 7 && hours < 18) {
-                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/styles.css\"/>")
+            var month = date.getMonth();
+            var end = 19;
+            var begin = 6;
+            if (month < 4 || month > 10) {
+                end = 18;
+                begin = 7;
+            }
+            if (hours < begin || hours > end) {
+                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/nightstyles.css\"/>");
             }
             else {
-                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/nightstyles.css\"/>");
+                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/styles.css\"/>");
             }
         </script>
 
