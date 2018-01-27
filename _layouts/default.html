@@ -16,7 +16,17 @@
         <meta property="og:title" content="{{ title }}"/>
 
         <link rel="icon" href="{{ site.baseurl }}/assets/stwhitelogo.png"/>
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css"/>
+
+        <script>
+            var date = new Date();
+            var hours = date.getHours();
+            if (hours > 11 && hours < 18) {
+                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/styles.css\"/>")
+            }
+            else {
+                document.write("<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/nightstyles.css\"/>");
+            }
+        </script>
 
         <title>{{ title }}</title>
 
@@ -30,7 +40,7 @@
                     <li><a href="{{ site.baseurl }}/bio" {% if page.url == "/bio/" %} class="active" {% endif %}> bio </a></li>
                     <li><a href="{{ site.baseurl }}/projects" {% if page.url == "/projects/" %} class="active" {% endif %}> projects </a></li>
                     <li><a href="{{ site.baseurl }}/resume" {% if page.url == "/resume/" %} class="active" {% endif %}> resume </a></li>
-                    <!-- <li><a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" or page.layout == "post" %} class="active" {% endif %}> blog </a></li> -->
+                    <li><a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" or page.layout == "post" %} class="active" {% endif %}> blog </a></li>
                     <li><a href="{{ site.baseurl }}/contact" {% if page.url == "/contact/" %} class="active" {% endif %}> contact </a></li>
                 </ul>
             </div>
@@ -38,7 +48,7 @@
                 <a href="{{ site.baseurl }}/bio" {% if page.url == "/bio/" %} class="active" {% endif %}> bio </a> |
                 <a href="{{ site.baseurl }}/projects" {% if page.url == "/projects/" %} class="active" {% endif %}> projects </a> |
                 <a href="{{ site.baseurl }}/resume" {% if page.url == "/resume/" %} class="active" {% endif %}> resume </a> |
-                <!-- <a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" or page.layout == "post" %} class="active" {% endif %}> blog </a> | -->
+                <a href="{{ site.baseurl }}/blog" {% if page.url == "/blog/" or page.layout == "post" %} class="active" {% endif %}> blog </a> |
                 <a href="{{ site.baseurl }}/contact" {% if page.url == "/contact/" %} class="active" {% endif %}> contact </a>
             </div>
             <div class="col-sm-6">

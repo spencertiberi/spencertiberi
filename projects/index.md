@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2 class="ressec"> Current Projects </h2>
-
+<!--
 <h3 class = "resloc"> MeToYou Mutual Stopwatch </h3>
 
 Application that allows two phones to have start and stop functionality when time athletic performance. One phone can start the timer and the other can end the timer.
@@ -12,6 +12,7 @@ Application that allows two phones to have start and stop functionality when tim
 - JavaScript
 - Firebase
 - React Native
+-->
 
 <h3 class = "resloc"> Basketball Play Efficiency </h3>
 

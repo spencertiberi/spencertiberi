@@ -16,7 +16,17 @@
         <meta property="og:title" content="Spencer Tiberi"/>
 
         <link rel="icon" href="/assets/stwhitelogo.png"/>
-        <link rel="stylesheet" href="/css/styles.css"/>
+
+        <script>
+            var date = new Date();
+            var hours = date.getHours();
+            if (hours > 11 && hours < 18) {
+                document.write("<link rel=\"stylesheet\" href=\"/css/styles.css\"/>")
+            }
+            else {
+                document.write("<link rel=\"stylesheet\" href=\"/css/nightstyles.css\"/>");
+            }
+        </script>
 
         <title>Spencer Tiberi</title>
 
@@ -30,7 +40,7 @@
                     <li><a href="/bio"  class="active" > bio </a></li>
                     <li><a href="/projects" > projects </a></li>
                     <li><a href="/resume" > resume </a></li>
-                    <!-- <li><a href="/blog" > blog </a></li> -->
+                    <li><a href="/blog" > blog </a></li>
                     <li><a href="/contact" > contact </a></li>
                 </ul>
             </div>
@@ -38,7 +48,7 @@
                 <a href="/bio"  class="active" > bio </a> |
                 <a href="/projects" > projects </a> |
                 <a href="/resume" > resume </a> |
-                <!-- <a href="/blog" > blog </a> | -->
+                <a href="/blog" > blog </a> |
                 <a href="/contact" > contact </a>
             </div>
             <div class="col-sm-6">
