@@ -3,12 +3,13 @@
 
 :root {
     --bg-color: #102B30;
-    --blog-link: #f9c05c;
+    //#f9c05c
+    --blog-link: #3fabbe;
     --content-txt-color: #fefcfa;
     --link-color: #3fabbe;
     --name-color: #be523f;
 
-    --link-highlight: var(--name-color);
+    --link-highlight: var(--content-txt-color);//--name-color);
     --ressec-color: var(--content-txt-color);
     --resloc-bg: var(--name-color);
     --resloc-color: var(--bg-color);
