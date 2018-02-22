@@ -4,10 +4,10 @@ layout: default
 
 <h2 class="ressec"> Education </h2>
 
-<h3 class="resloc"> (Redacted) </h3>
+<h3 class="resloc"> Harvard University </h3>
 **May 2017** A.L.M. in Extension Studies – Mathematics for Teaching (4.0 GPA)
 
-<h3 class="resloc"> (Redacted) </h3>                       
+<h3 class="resloc"> University of Nevada, Las Vegas </h3>                       
 **May 2013** B.S. in Secondary Education – Mathematics (3.7 GPA)            
 
 <h2 class="ressec"> Professional Experience </h2>
