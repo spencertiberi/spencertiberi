@@ -33,6 +33,18 @@ A collection of alternative rock home recordings.
 
 <h2 class="ressec"> Past Projects </h2>
 
+<h3 class = "resloc"> CS50AP.com </h3>
+
+Course website for my CS50 AP course at Belmont Hill. Located at <a href="http://cs50ap.com" target="blank">CS50AP.com</a>.
+
+#### Made With...
+- Markdown
+- HTML/CSS
+- Bootstrap
+- Python
+- Liquid
+- jQuery
+
 <h3 class = "resloc"> CS50 AP Playbook </h3>
 
 Playbook to help CS50 AP teachers get their class off the ground and running. Located at <a href="https://spencertiberi.github.io/playbook50" target="blank">https://spencertiberi.github.io/playbook50</a>.
@@ -40,8 +52,10 @@ Playbook to help CS50 AP teachers get their class off the ground and running. Lo
 #### Made With...
 - Markdown
 - HTML/CSS
+- Bootstrap
 - Python
 - Liquid
+- jQuery
 
 <h3 class = "resloc"> Basketball Box Score Sheet </h3>
 
