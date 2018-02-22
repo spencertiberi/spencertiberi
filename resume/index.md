@@ -40,7 +40,7 @@ layout: default
 
 <h2 class="ressec"> Skills </h2>
 
-**Programming:** C, PHP, JavaScript, Python 3, SQL <br>
+**Programming:** C, PHP, JavaScript, Python 3 <br>
 **Website and Document Creation:** HTML/CSS, Markdown, InDesign, Microsoft Office Suite <br>
 **Music:** Composition, Bass Guitar <br>
 **Professional:** Public Speaking, Client Rapport Development, Project Management, Design-Driven Mindset
