@@ -4,12 +4,12 @@
 :root {
     --bg-color: #fefcfa;
     --blog-link: #3fabbe;
-    --content-txt-color: #be523f;
-    --link-color: #3fabbe;
-    --name-color: #6e615c;
+    --content-txt-color: #3b4e6d;
+    --link-color: #F95D3E;
+    --name-color: #3b4e6d;
 
-    --link-highlight: var(--content-txt-color);
-    --ressec-color: var(--name-color);
+    --link-highlight: var(--name-color);
+    --ressec-color: var(--link-color);
     --resloc-bg: var(--content-txt-color);
     --resloc-color: var(--bg-color);
 }
