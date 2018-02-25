@@ -6,10 +6,10 @@
     --blog-link: #3fabbe;
     --content-txt-color: #3b4e6d;
     --link-color: #F95D3E;
-    --name-color: #3b4e6d;
 
-    --link-highlight: var(--name-color);
-    --ressec-color: var(--link-color);
+    --name-color: var(--content-txt-color);
+    --link-highlight: var(--content-txt-color);
+    --ressec-color: var(--content-txt-color);
     --resloc-bg: var(--content-txt-color);
     --resloc-color: var(--bg-color);
 }
