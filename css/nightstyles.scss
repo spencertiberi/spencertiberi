@@ -7,12 +7,11 @@
     --blog-link: #3fabbe;
     --content-txt-color: #fefcfa;
     --link-color: #F95D3E;
-    --name-color: #F95D3E;
     //b89bdb
-
+    --name-color: var(--content-txt-color);
     --link-highlight: var(--content-txt-color);//--name-color);
     --ressec-color: var(--content-txt-color);
-    --resloc-bg: var(--name-color);
+    --resloc-bg: var(--content-txt-color);
     --resloc-color: var(--bg-color);
 }
 
