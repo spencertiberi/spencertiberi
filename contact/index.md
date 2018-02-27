@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[tiberi@alumni.harvard.edu](mailto:tiberi@alumni.harvard.edu)
+[spencertiberi@gmail.com](mailto:spencertiberi@gmail.com)
