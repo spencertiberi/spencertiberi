@@ -8,7 +8,7 @@ layout: default
 **May 2017** Master's of Liberal Arts (ALM) in Extension Studies – Mathematics for Teaching (4.0 GPA)
 
 <h3 class="resloc"> University of Nevada, Las Vegas </h3>                       
-**May 2013** B.S. in Secondary Education – Mathematics (3.7 GPA)            
+**May 2013** BS in Secondary Education – Mathematics (3.7 GPA)            
 
 <h2 class="ressec"> Professional Experience </h2>
 
