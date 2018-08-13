@@ -12,16 +12,17 @@ layout: default
 
 <h2 class="ressec"> Professional Experience </h2>
 
-<h3 class="resloc"> Belmont Hill School </h3>
-
-**August 2017 – Present** Computer Science Faculty<br>
-**August 2017 – Present** Varsity Basketball Analytics Coach  
-
 <h3 class="resloc"> Harvard University </h3>
 
+**July 2018 – Present** Engineering Manager at Harvard Student Agencies DEV<br>
 **January 2018 – May 2018** Teaching Fellow for CSCI E-50: Introduction to Computer Science I <br>
 **August 2017 – December 2017** Teaching Fellow for CSCI E-1b: Computer Science for Business Professionals<br>
 **June 2017 – August 2017** CS50 Fellow  
+
+<h3 class="resloc"> Belmont Hill School </h3>
+
+**August 2017 – August 2018** Computer Science Faculty<br>
+**August 2017 – August 2018** Varsity Basketball Analytics Coach  
 
 <h3 class="resloc"> Clark County School District </h3>
 ### Durango High School (Title 1)
@@ -40,7 +41,7 @@ layout: default
 
 <h2 class="ressec"> Skills </h2>
 
-**Programming:** C, PHP, JavaScript, Python 3 <br>
-**Website and Document Creation:** HTML/CSS, Markdown, InDesign, Microsoft Office Suite <br>
+**Programming:** C, HTML/CSS, JavaScript, React, React Native, Python <br>
+**Document Creation:** Markdown, InDesign, Microsoft Office Suite <br>
 **Music:** Composition, Bass Guitar <br>
 **Professional:** Public Speaking, Client Rapport Development, Project Management, Design-Driven Mindset
